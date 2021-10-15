@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  ### Olá sou o Edilson, Programador💻| Analista de Sistemas📝  
+</h1>
 
-<!--
-**edilsonnovaes/edilsonnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left" style="font-size: 1rem;">
+  - 🔭 Atualmente trabalho com .NET e SQL
+</p>
+<p align="left" style="font-size: 1rem;">
+  - 🌱 Gosto muito de JavaScript e sou um curioso nas áreas de Segurança da informação e Ciência de Dados.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Trabalho na 
+<a href="https://www.newconsoftware.com.br" target="blank"><img align="center" src="https://www.newconsoftware.com.br/newcon/site/templates/newcon/images/logo.png" alt="_luistak" height="40" width="110" /></a>
+<br><br>
+Quem sou? <a href="https://www.linkedin.com/in/edilson-novaes-18274b8b/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="edilson-novaes" height="40" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=edilsonnovaes&show_icons=true" alt="edilsonnovaes" /> </p>
