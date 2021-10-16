@@ -23,5 +23,5 @@
 
 <hr />
 <div>
-  ![Snake animation](https://github.com/edilsonnovaes/edilsonnovaes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/edilsonnovaes/edilsonnovaes/blob/output/github-contribution-grid-snake.svg)
 </div>
