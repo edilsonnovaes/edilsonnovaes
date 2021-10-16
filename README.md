@@ -19,4 +19,6 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=edilsonnovaes&show_icons=true" alt="edilsonnovaes" /> </p>
 
 <hr />
-![Snake animation](https://github.com/edilsonnovaes/edilsonnovaes/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/edilsonnovaes/edilsonnovaes/blob/output/github-contribution-grid-snake.svg)
+</div>
