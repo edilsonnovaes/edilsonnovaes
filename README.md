@@ -22,7 +22,6 @@
 </p>
 
 <hr />
-<div>
-  ###Commits
+  
   ![Snake Animation](https://github.com/edilsonnovaes/edilsonnovaes/blob/output/github-contribution-grid-snake.svg)
-</div>
+
