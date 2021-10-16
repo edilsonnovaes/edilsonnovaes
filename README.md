@@ -7,7 +7,7 @@
   - 🔭 Atualmente trabalho com .NET e SQL
 </p>
 <p align="left" style="font-size: 1rem;">
-  - 🌱 Gosto muito de JavaScript e sou um curioso nas áreas de Segurança da informação e Ciência de Dados.
+  - 🌱 Gosto de brincar com JavaScript e sou um curioso nas áreas de Segurança da informação e Ciência de Dados.
 </p>
 
 <p align="left">
