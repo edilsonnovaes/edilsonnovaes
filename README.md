@@ -16,9 +16,13 @@
 
 
 <hr />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=edilsonnovaes&show_icons=true" alt="edilsonnovaes" /> </p>
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=edilsonnovaes&show_icons=true" alt="edilsonnovaes" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonnovaes&layout=compact&langs_count=16" alt="edilsonnovaes" />
+</p>
 
 <hr />
 <div>
   ![Snake animation](https://github.com/edilsonnovaes/edilsonnovaes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcosandredev/marcosandredev/blob/main/Snake.svg)
 </div>
