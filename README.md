@@ -1,7 +1,6 @@
 <h1 align="center">
   Olá sou Edilson, <br/> 
-  💻Programador | 📝Analista de Sistemas na 
-  <a href="https://www.newconsoftware.com.br" target="blank"><img align="center" src="https://www.newconsoftware.com.br/newcon/site/templates/newcon/images/logo.png" alt="_luistak" height="40" width="110" /></a>
+  💻Programador | 📝Analista de Sistemas
 </h1>
 
 <p align="left" style="font-size: 1rem;">
