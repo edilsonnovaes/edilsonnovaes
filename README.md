@@ -1,13 +1,10 @@
 <h1 align="center">
   Olá sou Edilson, <br/> 
-  💻Programador | 📝Analista de Sistemas
+  💻 Software Engineer
 </h1>
 
 <p align="left" style="font-size: 1rem;">
   - 🔭 Atualmente trabalho com .NET e SQL
-</p>
-<p align="left" style="font-size: 1rem;">
-  - 🌱 Gosto de brincar com JavaScript e sou um curioso nas áreas de Segurança da informação e Ciência de Dados.
 </p>
 
 <p align="left">
